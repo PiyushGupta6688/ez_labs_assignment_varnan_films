@@ -19,3 +19,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # ez_labs_assignment_varnan_films
 This is company assignment
  c1350807f039cd00be095db322004ae9cf8b612d
+
+Deployed Link : https://piyushgupta6688.github.io/ez_labs_assignment_varnan_films/
