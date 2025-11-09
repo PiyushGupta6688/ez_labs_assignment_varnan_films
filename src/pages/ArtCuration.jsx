@@ -10,10 +10,10 @@ import Art1 from "../assets/Art1.svg";
 import Arrow from "../assets/arrow.svg"; 
 import NavbarImg from "../assets/Navbar.png";
 import Frame from "../assets/Frame.png";
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";     
 
 export default function ArtProduction() {
-  const navigate = useNavigate();
+  
   return (
     <div
     className="relative w-screen h-screen overflow-hidden flex flex-col items-center justify-start"
